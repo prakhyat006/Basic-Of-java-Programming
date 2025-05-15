@@ -1,3 +1,6 @@
+// 2. Write a java program for getting different colors through ArrayList interface and remove the
+// 2nd element and color "Blue" from the ArrayList (using remove by index and remove by
+// object)
 package ArrayList;
 import java.util.*;
 public class p2 {
@@ -11,8 +14,10 @@ public class p2 {
 		ls.add("red");
 		ls.add("Blue");
 		System.out.println(ls);
+		//to remove the element at index 2
 		ls.remove(2);
 		System.out.println(ls);
+		//to remove an element blue
 		ls.remove("Blue");
 		System.out.println(ls);
 	}

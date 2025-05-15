@@ -1,6 +1,7 @@
-package ArrayList;
-
-public class  {
+// 1. Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList and a LinkedList to perform the following operations with different functions directed as follows
+// package ArrayList;
+import java.util.*;
+public class  WorkedOutEx{
 public static void main(String[] args) {
 // Creating different types of Lists
 List<String> arrayList = new ArrayList<>();

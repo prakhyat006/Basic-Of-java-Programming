@@ -1,4 +1,7 @@
-package ArrayList;
+// 1. Write a java program for getting different colors through ArrayList interface and search whether
+// the color "Red" is available or not
+// ( Hint : Use ArrayListObj.contains() )
+// package Exp1ArraysAndLinkedList;
 
 import java.util.*;
 public class p1 {

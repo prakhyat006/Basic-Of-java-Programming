@@ -1,3 +1,5 @@
+// Write a java program for getting different colors through ArrayList interface and extract the
+// elements 1st and 2nd from the ArrayList object by using SubList()
 package ArrayList;
 
 import java.util.*;
@@ -13,6 +15,7 @@ public class p4 {
 		ls.add("Blue");
 		System.out.println(ls);
 		System.out.println("using sublist:");
+		//to obtain a sublist
 		System.out.println(ls.subList(0,2));
 	}
 

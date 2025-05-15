@@ -1,3 +1,5 @@
+// 5. Write a java program for getting different colors through ArrayList interface and delete nth
+// element from the ArrayList object by using remove by index
 package ArrayList;
 import java.util.*;
 public class p5 {
@@ -13,6 +15,7 @@ public class p5 {
 //		int n=3;
 		String Str="green";
 		System.out.println(ls);
+		//to remove an elemet at the specified position
 		System.out.println("Removing the nth Element:"+ls.remove(Str));
 		System.out.println(ls);
 	}

@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/Hashmap1",
+            "request": "launch",
+            "mainClass": "SetInterface/Hashmap1",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/Hashmap2",
+            "request": "launch",
+            "mainClass": "SetInterface/Hashmap2",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/Hashmap3",
+            "request": "launch",
+            "mainClass": "SetInterface/Hashmap3",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/Hashmap4",
+            "request": "launch",
+            "mainClass": "SetInterface/Hashmap4",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/LinkedHashMap1",
+            "request": "launch",
+            "mainClass": "SetInterface/LinkedHashMap1",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/LinkedHashMap2",
+            "request": "launch",
+            "mainClass": "SetInterface/LinkedHashMap2",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/LinkedHashMap3",
+            "request": "launch",
+            "mainClass": "SetInterface/LinkedHashMap3",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/LinkedHashMap4",
+            "request": "launch",
+            "mainClass": "SetInterface/LinkedHashMap4",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/MapInterfaceDemo",
+            "request": "launch",
+            "mainClass": "SetInterface/MapInterfaceDemo",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/TreeMap1",
+            "request": "launch",
+            "mainClass": "SetInterface/TreeMap1",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/TreeMap2",
+            "request": "launch",
+            "mainClass": "SetInterface/TreeMap2",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/TreeMap3",
+            "request": "launch",
+            "mainClass": "SetInterface/TreeMap3",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/TreeMap4",
+            "request": "launch",
+            "mainClass": "SetInterface/TreeMap4",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/WorkedOutEx",
+            "request": "launch",
+            "mainClass": "SetInterface/WorkedOutEx",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p1",
+            "request": "launch",
+            "mainClass": "SetInterface/p1",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p10",
+            "request": "launch",
+            "mainClass": "SetInterface/p10",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p2",
+            "request": "launch",
+            "mainClass": "SetInterface/p2",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p3",
+            "request": "launch",
+            "mainClass": "SetInterface/p3",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p4",
+            "request": "launch",
+            "mainClass": "SetInterface/p4",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p5",
+            "request": "launch",
+            "mainClass": "SetInterface/p5",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p6",
+            "request": "launch",
+            "mainClass": "SetInterface/p6",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p7",
+            "request": "launch",
+            "mainClass": "SetInterface/p7",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p8",
+            "request": "launch",
+            "mainClass": "SetInterface/p8",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        },
+        {
+            "type": "java",
+            "name": "SetInterface/p9",
+            "request": "launch",
+            "mainClass": "SetInterface/p9",
+            "projectName": "Basic-Of-java-Programming_f19033e7"
+        }
+    ]
+}

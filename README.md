@@ -5,7 +5,7 @@ This repository contains a structured set of Java programs categorized according
 ## 📂 Program Breakdown
 
 ### 1️⃣ to 3️⃣ - **Core Java**
-Includes fundamental Java programs:
+Includes fundamental Java programs
 - Basic syntax
 - Object-Oriented Programming (OOP) concepts
 - Control structures, arrays, strings, and more

@@ -16,7 +16,7 @@ jfrm.setSize(275, 100);
 //Terminate the program when the user closes the application.
 jfrm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 //Create a text-based label.
-JLabel jlab = new JLabel(" Hello! Prakhyat , Welcome to Swing Programming!");
+JLabel jlab = new JLabel(" Hello! Shravya Here , Welcome to Swing Programming!");
 // set properties for label
 jlab.setFont(new Font("Verdana", Font.PLAIN,32));
 jlab.setForeground(new Color(0,0,255));

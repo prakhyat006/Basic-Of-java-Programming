@@ -4,7 +4,7 @@ function generateRandomString()
  */
 package strings;
 import java.util.Random;
-public class exp9 {
+public class RandomStringGenerator {
     public static String RandomString(int length) {
      
         String charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";

@@ -3,7 +3,7 @@
 // object)
 package ArrayList;
 import java.util.*;
-public class p2 {
+public class RemoveColorArrayList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

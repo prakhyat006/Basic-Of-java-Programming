@@ -4,7 +4,7 @@ capitalizeWords()
  */
 package strings;
 
-public class exp6 {
+public class CapitalizeWords {
 
 	public static String capitalizeWords(String str) {
         String result = "";

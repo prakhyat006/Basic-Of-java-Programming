@@ -4,7 +4,7 @@ using user defined function countOccurrences()
  */
 package strings;
 
-public class exp2 {
+public class CountSubstringOccurrences {
 		    public static int countOccurrences(String mainString, String subString) {
 		        if (mainString == null || subString == null || subString.isEmpty()) {
 		            return 0;

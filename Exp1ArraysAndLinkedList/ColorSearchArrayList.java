@@ -4,7 +4,7 @@
 // package Exp1ArraysAndLinkedList;
 
 import java.util.*;
-public class p1 {
+public class ColorSearchArrayList {
 
 	public static void main(String[] args) {
 		

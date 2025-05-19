@@ -4,7 +4,7 @@ defined function isNullOrEmpty().
 */
 package strings;
 
-public class exp1 {
+public class CheckNullOrEmpty {
 		    public static boolean isNullOrEmpty(String str) {
 		        return str == null || str.trim().isEmpty();
 		    }

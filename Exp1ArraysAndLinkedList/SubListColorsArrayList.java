@@ -3,7 +3,7 @@
 package ArrayList;
 
 import java.util.*;
-public class p4 {
+public class SubListColorsArrayList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

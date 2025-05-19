@@ -2,7 +2,7 @@
 // l_listobj.get(p) )
 import java.util.*;
 
-public class p9 {
+public class DisplayWithPositionsLinkedList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

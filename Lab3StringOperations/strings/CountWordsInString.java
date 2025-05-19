@@ -4,7 +4,7 @@ countWords()
  */
 package strings;
 
-public class exp10 {
+public class CountWordsInString {
     public static int countWords(String str) {
         if (str == null || str.trim().isEmpty()) {
             return 0;

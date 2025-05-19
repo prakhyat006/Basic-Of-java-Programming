@@ -4,7 +4,7 @@ function removeWhitespace()
  */
 package strings;
 
-public class exp5 {
+public class RemoveWhitespace {
 		    public static String removeWhitespace(String str) {
 		        if (str == null) {
 		            return null;

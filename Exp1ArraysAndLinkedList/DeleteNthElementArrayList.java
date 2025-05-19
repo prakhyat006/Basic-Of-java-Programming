@@ -2,7 +2,7 @@
 // element from the ArrayList object by using remove by index
 package ArrayList;
 import java.util.*;
-public class p5 {
+public class DeleteNthElementArrayList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

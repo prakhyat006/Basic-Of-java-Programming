@@ -5,29 +5,26 @@ This repository contains a structured set of Java programs categorized according
 ## 📂 Program Breakdown
 
 ### 1️⃣ to 3️⃣ - **Core Java**
-Includes fundamental Java programs
-- Basic syntax
-- Object-Oriented Programming (OOP) concepts
-- Control structures, arrays, strings, and more
+Lab 1 Folder Link -
+Lab 2 Folder Link -
+Lab 3 Folder Link -
 
 ### 4️⃣ to 6️⃣ - **Java Swing**
 GUI-based applications using Java Swing:
-- Window creation
-- Event handling
-- Layout managers
-- Tabbed panes and interactive components
+Lab 4 folder Link -
+Lab 5 Folder Link -
+Lab 6 Folder Link -
 
 ### 7️⃣ - **Java Servlet**
 Server-side web application using Servlets:
-- Handling HTTP requests/responses
-- Servlet life cycle
-- Form handling with `doGet()` and `doPost()`
+ Lab 7 Folder Link -
 
 ### 8️⃣ and 9️⃣ - **JSP and JDBC**
 Integration of Java with front-end and database:
 - JSP (Java Server Pages) for dynamic web pages
 - JDBC (Java Database Connectivity) for MySQL interactions
-
+ Lab 8 Folder Link -
+ Lab 9 Folder Link -
 ## ✅ Features
 - Clean, readable code
 - Proper folder-wise organization

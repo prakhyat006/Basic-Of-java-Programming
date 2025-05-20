@@ -4,6 +4,6 @@ Mysql_Query output -https://github.com/prakhyat006/Basic-Of-java-Programming/blo
 
 Employee Delete output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/DEleteEmployee1.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/DeleteEmployee2.png
 
-Generating SalarayReport output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/SalarayReport.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/SalaryReport.png
+Generating SalarayReport output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/SalarayReport1.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/SalaryReport2.png
 
 

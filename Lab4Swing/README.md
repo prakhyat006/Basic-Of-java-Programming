@@ -1,7 +1,7 @@
-Q1 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab4Swing/1.png
+ButtonExample output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab4Swing/ButtonExample.png
 
-Q2 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab4Swing/2.png
+ClockUI output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab4Swing/ClockUI.png
 
-Q3 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab4Swing/3.png
+MouseOperation output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab4Swing/MouseOperation.png
 
-Q4 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab4Swing/4.png
+SwingExample output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab4Swing/SwingExample.png

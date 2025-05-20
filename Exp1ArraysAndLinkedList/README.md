@@ -1,21 +1,21 @@
 WorkedOut o/p - https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/exprogramoutput.png
 
-la 1 o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p1output.png
+ColorSearchArrayList o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/ColorSearchArrayList.png
 
-la 2 o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p2output.png
+RemoveColorArrayList o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/RemoveColorArrayList.png
 
-la 3 o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p3output.png
+SortColorsArrayList o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/SortColorsArrayList.png
 
-la 4 o/p-https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p4output.png
+SubListColorsArrayList o/p-https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/SubListColorsArrayList.png
 
-la 5 o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p5output.png
+DeleteNthElementArrayList o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/DeleteNthElementArrayList.png
 
-1b 1 o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p6output.png
+IterateFromSecondLinkedList o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/IterateFromSecondLinkedList.png
 
-lb 2 o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p7output.png
+ReverseIterateLinkedList o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/ReverseIterateLinkedList.png
 
-lb 3 o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p8output.png
+InsertEndLinkedList o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/InsertEndLinkedList.png
 
-lb 4 o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p9output.png
+DisplayWithPositionsLinkedList o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/DisplayWithPositionsLinkedList.png
 
-lb 5 o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/p10output.png
+SwapElementsLinkedList o/p- https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Exp1ArraysAndLinkedList/SwapElementsLinkedList.png

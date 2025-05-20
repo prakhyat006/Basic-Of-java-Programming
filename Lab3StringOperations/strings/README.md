@@ -1,21 +1,21 @@
 Demo -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/Demo.png
 
-1 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/1.png
+CheckNullOrEmpty output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/CheckNullOrEmpty.png
 
-2 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/2.png
+CountSubstringOccurrences output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/CountSubstringOccurrences.png
 
-3 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/3.png
+ReverseString output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/ReverseString.png
 
-4 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/4.png
+PalindromeChecker output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/PalindromeChecker.png
 
-5 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/5.png
+RemoveWhitespace output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/RemoveWhitespace.png
 
-6 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/6.png
+CapitalizeWords output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/CapitalizeWords.png
 
-7 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/7.png
+Checktrunication output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/TruncateString.png
 
-8 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/8.png
+CheckNumericString output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/CheckNumericString.png
 
-9 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/9.png
+RandomStringGenerator output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/RandomStringGenerator.png
 
-10 output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/10.png
+CountWordsInString output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab3StringOperations/strings/CountWordsInString.png

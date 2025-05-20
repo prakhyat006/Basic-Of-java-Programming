@@ -1,7 +1,7 @@
-8a output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/8a.png
+Mysql_update output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/My_sqlUpdate.png
 
-8b output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/8b.png
+Mysql_select output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/MY_select.png
 
-8c output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/8c_1.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/8c_2.png
+Employee Insertion output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/Insert.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/employee.png
 
-8d output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/8d_1.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/8d_2.png
+UpdateForm output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/ipdateForm.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab8JDBCandJSP/report.png

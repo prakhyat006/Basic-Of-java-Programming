@@ -1,8 +1,8 @@
-5a output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab5Swing/5a.png
+ColorTabbedPane output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab5Swing/ColorTabbedPane.png
 
-5b output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab5Swing/5b.png
+CountryCapitalList output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab5Swing/CountryCapitalList.png
 
-5c output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab5Swing/5c.png
+JListExample output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab5Swing/JListExample.png
 
-5d output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab5Swing/5d.png
+TabbedPaneExample output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab5Swing/TabbedPaneExample.png
 

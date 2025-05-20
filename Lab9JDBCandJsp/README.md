@@ -1,9 +1,9 @@
-9a output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/9a.png
+Mysql_Delete output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/Mysql_Delete.png
 
-9b output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/9b.png
+Mysql_Query output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/Mysql_Query.png
 
-9c output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/9c_1.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/9c_2.png
+Employee Delete output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/DEleteEmployee1.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/DeleteEmployee2.png
 
-9d output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/9d_1.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/9d_2.png
+Generating SalarayReport output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/SalarayReport.png && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/SalaryReport.png
 
 

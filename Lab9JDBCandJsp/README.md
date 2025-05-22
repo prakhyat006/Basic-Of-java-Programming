@@ -2,7 +2,7 @@ Mysql_Delete output -https://github.com/prakhyat006/Basic-Of-java-Programming/bl
 
 Mysql_Query output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/Mysql_Query.png
 
-Employee Delete output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/SalarayReport1.png
+Employee Delete output -https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/SalaryReport1.png
  && https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab9JDBCandJsp/SalarayReport2.png
 
 

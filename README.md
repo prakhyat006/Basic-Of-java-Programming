@@ -1,6 +1,6 @@
 # Java Programs Collection 📚
 
-This repository contains a structured set of Java programs categorized according to topics and technologies. It serves as a comprehensive reference for Java learners and practitioners, covering a wide range of core and advanced Java concepts.
+This repository contains structured set of Java programs categorized according to topics and technologies. It serves as a comprehensive reference for Java learners and practitioners, covering a wide range of core and advanced Java concepts.
 
 ## 📂 Program Breakdown
 
